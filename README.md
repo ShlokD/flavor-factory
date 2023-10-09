@@ -1,3 +1,5 @@
-# Flighty Mango
+# Flavor Factory
 
-Preact + Vite + Eslint + Prettier + TailwindCSS
+Restaurant Showcase Website
+
+Demo: https://flavor-factory.surge.sh/
